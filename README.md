@@ -5,7 +5,9 @@ Learning reflection: During this week, my focus is to decide what final Vue conc
 Next week, I expected:
 
 •	To implement 2 or more vue components on the same page.
+
 • Implement this week learning on my final project. 
+
 • In-depth understanding of User Inputs, Form Input Bindings, and their components.
 
 
