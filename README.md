@@ -1,6 +1,13 @@
 Week 5 reflection: 
 
-Learning reflection: During this week, my focus is to think about what Vue concepts and components that I want to include in my travel website. Before I implement it into my final project, I understand the concept and definition beforehand. After that I implement my understanding into VS code to see the result. 
+Learning reflection: During this week, my focus is to decide what final Vue concepts and components that I want to include on my travel website. Before I implement it into my final project, I understand the concept and definition beforehand. After that I implement my understanding into VS code to see the result. 
+
+Next week, I expected:
+
+•	To implement 2 or more vue components on the same page.
+• Implement this week learning on my final project. 
+• In-depth understanding of User Inputs, Form Input Bindings, and their components.
+
 
 Task 1: 
 
